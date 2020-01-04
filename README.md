@@ -12,3 +12,15 @@ Thanks the creator for host such wonderful event, and I should find some time to
 
 感謝活動的創辦人辦了這麼棒的一個活動，我應該找個時間去學一下怎麼那些沒解開的題目解開。
 
+The list of the unsolved problems:
+
+1. Day13 part2
+2. Day15 part2
+3. Day16 part2
+4. Day17 part2
+5. Day18 part1 & part2
+6. Day21 part1 & part2
+7. Day22 part2
+8. Day24 part2
+9. Day25 part1 & part2
+
